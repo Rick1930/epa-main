@@ -4,8 +4,8 @@ const { v4: uuidv4 } = require('uuid');
 
 // armazenamento em memória (exemplo inicial)
 const usuarios = [
-  { id: uuidv4(), nome: 'Ana Silva', email: 'ana@ex.com', telefone: '11 99999-0000' },
-  { id: uuidv4(), nome: 'João Souza', email: 'joao@ex.com', telefone: '11 98888-0000' }
+  { id: uuidv4(), nome: 'Anna Laura', email: 'anna@ex.com', telefone: '11 99999-0000' },
+  { id: uuidv4(), nome: 'Beatriz Silva', email: 'silva.bia@ex.com', telefone: '11 98888-0000' }
 ];
 
 // listar
